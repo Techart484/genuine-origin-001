@@ -1,0 +1,28 @@
+{
+  "archetype": "premium-brutalist",
+  "canvasUrl": "https://framer.com/projects/frm_d85e79cf/genuine-origin-polished",
+  "wsChannel": "wss://framer.com/canvas/frm_d85e79cf",
+  "palette": {
+    "primary": "#333333",
+    "accent": "#999999",
+    "bg": "#F5F5F5",
+    "surface": "#666666",
+    "fg": "#FFFFFF"
+  },
+  "motion": {
+    "preset": "snap.cut",
+    "easing": "cubic-bezier(.2,.8,.2,1)",
+    "duration": 220,
+    "springs": [
+      "stiff",
+      "tight"
+    ]
+  },
+  "effects": [
+    "1px hairline grid",
+    "monospace meta labels",
+    "scroll-jacked sections",
+    "no shadows"
+  ],
+  "sourceDeploymentUrl": "https://genuine-origin-2026-e56886fd.vercel.app"
+}
