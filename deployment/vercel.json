@@ -1,0 +1,75 @@
+{
+  "deploymentId": "dpl_e56886fd",
+  "projectName": "genuine-origin-2026",
+  "framework": "Pure HTML/CSS",
+  "language": "HTML",
+  "stagingUrl": "https://genuine-origin-2026-e56886fd.vercel.app",
+  "inspectorUrl": "https://vercel.com/awde/genuine-origin-2026/deployments/e56886fd",
+  "deployedAt": "2026-06-11T20:28:57.926Z",
+  "modules": [
+    {
+      "id": "mod_20dfe8fc",
+      "slug": "products",
+      "displayName": "Products",
+      "itemCount": 0,
+      "fields": [
+        {
+          "slug": "name",
+          "name": "Name",
+          "type": "PlainText"
+        },
+        {
+          "slug": "description",
+          "name": "Description",
+          "type": "RichText"
+        },
+        {
+          "slug": "features",
+          "name": "Features",
+          "type": "RichText"
+        }
+      ]
+    },
+    {
+      "id": "mod_57714c46",
+      "slug": "sections",
+      "displayName": "Page Sections",
+      "itemCount": 0,
+      "fields": [
+        {
+          "slug": "kind",
+          "name": "Kind",
+          "type": "Option"
+        },
+        {
+          "slug": "title",
+          "name": "Title",
+          "type": "PlainText"
+        },
+        {
+          "slug": "summary",
+          "name": "Summary",
+          "type": "RichText"
+        }
+      ]
+    },
+    {
+      "id": "mod_d4e5c67b",
+      "slug": "nav-links",
+      "displayName": "Nav Links",
+      "itemCount": 0,
+      "fields": [
+        {
+          "slug": "label",
+          "name": "Label",
+          "type": "PlainText"
+        },
+        {
+          "slug": "order",
+          "name": "Order",
+          "type": "Number"
+        }
+      ]
+    }
+  ]
+}
